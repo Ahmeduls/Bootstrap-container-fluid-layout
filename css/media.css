@@ -1,0 +1,128 @@
+    @media (max-width: 767px) {
+        .brand,
+        .global_nav,
+        .tools {
+            background-color: #CDE1FC;
+            min-height: 50px;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        .brand h5,
+        .global_nav h5,
+        .tools h5 {
+            padding-top: 17px;
+            text-align: center;
+        }
+        .hero_call_action {
+            min-height: 70px;
+            background-color: #CDE1FC;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        .hero_call_action h4 {
+            text-align: center;
+            padding-top: 25px;
+        }
+        .hero_content {
+            background-color: #9BC4FF;
+            min-height: 150px;
+            margin-bottom: 15px;
+        }
+        .article_feature {
+            min-height: 120px;
+            background-color: #CDE1FC;
+            margin-top: 25px;
+            margin-bottom: 25px;
+        }
+        .article_feature h5 {
+            text-align: center;
+            padding-top: 54px;
+        }
+        .add {
+            background-color: #6AA6DC;
+            min-height: 120px;
+            text-align: center;
+            padding-top: 1px;
+        }
+        .article_listing {
+            min-height: 200px;
+            background-color: #CDE1FC;
+            margin-bottom: 20px;
+        }
+        .article_listing h5 {
+            text-align: center;
+            padding-top: 100px;
+        }
+        footer {
+            min-height: 50px;
+            margin-bottom: 15px;
+        }
+    }
+    
+    @media (min-width: 768px) and (max-width: 991px) {
+        .hero_call_action h4 {
+            padding-top: 40px;
+            text-align: center;
+        }
+        .hero_call_action {
+            min-height: 100px;
+            background-color: #CDE1FC;
+            margin-bottom: 18px;
+        }
+        .hero_feature {
+            min-height: 160px;
+            background-color: #CDE1FC;
+            margin-top: 20px;
+            margin-bottom: 0px;
+        }
+        .add {
+            background-color: #6AA6DC;
+            min-height: 240px;
+            text-align: center;
+            margin-bottom: 15px;
+            padding-top: 1px;
+            margin-top: 25px;
+        }
+        .article_feature {
+            min-height: 240px;
+            background-color: #CDE1FC;
+            margin-top: 25px;
+            margin-bottom: 0px;
+        }
+        .article_feature h5 {
+            text-align: center;
+            padding-top: 115px;
+        }
+        .article_listing {
+            min-height: 330px;
+            background-color: #CDE1FC;
+            margin-bottom: 25px;
+        }
+        .disable_padding_right {
+            padding-right: 0px;
+            padding-left: 0px;
+        }
+        .sidebar_content {
+            min-height: 150px;
+            background-color: #CDE1FC;
+            text-align: center;
+            margin-top: 10px;
+        }
+        .sidebar_content h5 {
+            text-align: center;
+            padding-top: 70px;
+        }
+        .sidebar_feature {
+            min-height: 150px;
+            background-color: #9BC4FF;
+            margin-bottom: 15px;
+        }
+        .article_listing h5 {
+            text-align: center;
+            padding-top: 170px;
+        }
+    }
+    
+    @media (min-width: 992px) and (max-width: 1199px) {}
+    
+    @media (min-width: 1200px) {}
